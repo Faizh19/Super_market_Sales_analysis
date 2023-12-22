@@ -4,3 +4,4 @@ Supermarket Sales Analysis Dashboard, a dynamic and interactive data visualizati
 
 Drawing from a diverse range of data sources, equips me and other stakeholders, including managers and analysts, with the insights needed to make well-informed decisions and spot valuable trends within the supermarket's sales data.
 
+![image](https://github.com/Faizh19/Super_market_Sales_analysis/assets/121799783/ab207c49-6982-424e-8888-605ef8653750)
